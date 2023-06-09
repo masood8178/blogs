@@ -1,0 +1,20 @@
+M1 Chip — the beginning :
+
+The Tech giant Apple launched M1 chip on november 2020 and it is the first SOC (system-on-chip) build specifically for mac in which small size and power efficiency is of prime importance . The M1 is the first chip built using cutting-edge 5-nanometer process technology and it contains 16 billion transistors!!! yes , this is huge , massive , extraordinary . Like really 16 billion transistors on a 5 nanometer chip , woof amazing. Many think M1 as a CPU for mac, but it ain’t one, it’s a whole system of multiple chips and CPU is just one of these chips.
+A Central processing unit ( CPU ) at its most basic level is a device with a number of memory units called registers and a number of computational units called arithmetic logic units (ALU). But let’s stick to our exploratory path for M1 chip, previously i have used a term SOC i.e system on chip , as the name suggest it is just a system placed on a chip right ? . Well , that’s not enough to describe SOC. Unlike computers these days have the components that are mounted on a motherboard, an SoC, like the Apple M1, brings together a CPU, GPU unified memory, SSD controller, image signal processor, Secure Enclave, on one chip.
+I know many of these terms might be new to you , but don’t worry we will explore them as we move ahead . By now we are clear that M1 isn’t just a processor chip it is a SOC .
+But how M1 is so fast and efficient ? See Apple has followed a strategy: They have started adding more specialized chips doing a less specialized tasks. The benefit of this is that these chips are able to perform their tasks significantly faster while consuming less electric current . To understand this think that there is work that requires at least 10 people and it takes around total 10 hours to complete the task now if the same amount of work is distributed among 20 people then the total hours reduces to 5 .
+
+So Rather than just having general-purpose cores and memory, Apple’s M1 contains a wide variety of specialized chips such as :
+
+Central processing unit (CPU)
+Graphics processing unit (GPU)
+Image processing unit (ISP)
+Digital signal processor (DSP)
+Neural processing unit (NPU)
+Video encoder/decoder
+Secure Enclave
+Unified memory
+That is the reason that less expensive M1 Mac Mini enables to encode a large video file while an expensive iMac still suffers .
+This is just a beginning of a long informative blog , there are more to know and learn , technology is advancing day by day and it is very important to stay updated . We will talk more about M1 chip in the upcoming blogs , things you will get to know are unified architecture of M1 chip , Intel and AMD chips vs the M1 , we will also talk about ssd controller and graphics processing unit (GPU) , image processing unit (ISP) , digital signal processor (DSP), neural processing unit (NPU) etc . in the upcoming blogs.
+Hope You like it.

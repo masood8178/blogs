@@ -1,0 +1,23 @@
+Self-driving cars (SDC) have become one of the most exciting areas in the world of AI. Major car manufacturers are heavily involved in developing this technology. But have you ever wondered at what level these manufacturers have reached?
+The 5 levels of autonomous driving defined by SAE, which determine the extent of automation and human involvement in driving a SDC are:
+LEVEL 1: No Automation
+At Level 1, the driver is in complete control of the vehicle at all times similar to our normal manual cars without any cruise control feature.
+LEVEL 2: Driver Assistance
+Level 2 involves driver assistance systems that provide certain automated functions. These systems can assist with either steering or acceleration/deceleration, but not both simultaneously : cars with cruise control feature
+LEVEl 3 :Partial Automation
+The car has both steering and acceleration/deceleration capabilities through automated systems. However, the driver must remain engaged and attentive to the driving task some examples are : Tesla’s Autopilot or GM’s Super Cruise
+LEVEL 4 : Conditional Automation
+In Level 4, the driver is not required to monitor the road continuously but must be ready to intervene within a set time frame when asked by the system
+LEVEL 5 : High Automation / Full Automation
+Here the vehicle is capable of fully autonomous driving in most conditions and environments without human intervention the car is fully automated and no human interaction is required to move the car.
+
+Most of the car manufacturers have reached Level 2 or 3 and some are working close to Level 4 , but the problem that they face at each level is more important to note here , they can be listed as :
+Problem(1) Data Storage
+Self-driving vehicles produce a substantial amount of data. Intel reports that autonomous cars generate 4 terabytes of raw data within a 24-hour period. If 2,500 vehicles are deployed, this results in the rapid accumulation of a petabyte of data daily. Which will eventually increase the cost for storing this data either in cloud or SSD
+Problem(2) Data Transportation
+Transferring terabytes of data from cars without a consistent 5G connection is challenging. With a 50 :/s internet connection, around 4TB of data can be uploaded in 24 hours. Increasing the number of cars requires a linear increase in bandwidth.
+Problem (3) Cost of Sensors
+Self-driving cars rely on cameras and LiDAR technology to perceive their surroundings. Cameras are affordable, but LiDAR is costly. The latest Velodyne LiDAR sensor, priced at around $75,000, which exceeds the usual budget for an entire car.
+
+Many big companies are working on this technology and developing solutions to tackle these problems but one of the best is NVIDIA they offer GPUs that deliver massive computing power, enabling real-time processing of vast amounts of data from various sensors in autonomous vehicles and various other solutions.
+Explore it here : https://lnkd.in/drKh9-Ag \
